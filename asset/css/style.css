@@ -1,0 +1,27 @@
+body{
+
+    font-family: 'Indie Flower', cursive;
+
+
+
+}
+
+header{
+
+    background-image: url('../img/yo.jpeg');
+    padding-bottom: 50rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Stoke', serif;
+    background-attachment: fixed;
+    
+
+}
+
+.primera{
+    background-color: #78A8FF ;
+}
+
+footer{
+    background-color: silver;
+}
