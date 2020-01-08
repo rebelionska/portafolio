@@ -9,7 +9,8 @@ body{
 header{
 
     background-image: url('../img/yo.jpeg');
-    padding-bottom: 50rem;
+    padding-bottom: 10rem;
+    padding-top: 10rem;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Stoke', serif;
@@ -25,3 +26,13 @@ header{
 footer{
     background-color: silver;
 }
+
+h1{
+    text-shadow: 0px 0px 10px #666666
+}
+
+.parrafo{
+
+    text-shadow: 0px 0px 10px #666666;
+}
+
