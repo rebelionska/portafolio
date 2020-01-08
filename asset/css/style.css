@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Indie Flower', cursive;
+    
 
 
 
@@ -41,4 +42,17 @@ h1{
     width: 50px;
 
 
+}
+
+@media(
+max-width:767px
+){
+    header{
+        background-position: right;
+    }
+}
+
+.las-tareas{
+
+    background-color: #D67003;
 }
